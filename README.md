@@ -1,4 +1,4 @@
-# lilfrosch
+# LilFrosch
 
 ```text
 frog@lilfrosch ~$ 
